@@ -13,7 +13,7 @@
     ],
     "builds": [
         {
-            "src": "./public/index.js",
+            "src": "./index.js",
             "use": "@vercel/node"
         }
     ]
