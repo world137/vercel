@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="../public/index.css">
     <h1 class="text">hello world</h1>
 </body>
 
