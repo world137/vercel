@@ -7,7 +7,7 @@
     <title>Document</title>
 
 </head>
-<link rel="stylesheet" href="../public/index.css">
+<link rel="stylesheet" href="<?php echo __DIR__; ?>../public/index.css">
 
 <body>
     <h1 class="text">hello world</h1>
