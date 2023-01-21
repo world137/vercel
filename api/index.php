@@ -13,5 +13,5 @@
     <link rel="stylesheet" href="../public/index.css">
     <h1 class="text">hello world</h1>
 </body>
-
+<script src="../public/index.js"></script>
 </html>
