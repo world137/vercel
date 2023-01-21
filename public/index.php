@@ -8,11 +8,11 @@
     <title>Document</title>
 
 </head>
-<link rel="stylesheet" href="./index.css">
+<link rel="stylesheet" href="../public/index.css">
 
 <body>
     <h1 class="text">hello world</h1>
 </body>
-<script type="text/javascript" src="./index.js"></script>
+<script type="text/javascript" src="../public/index.js"></script>
 
 </html>
